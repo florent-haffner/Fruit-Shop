@@ -5,9 +5,7 @@ import java.util.Scanner;
 
 public class BasicLoop {
 
-   public List<Article> array = new ArrayList<>();
-
-   /* method(string) -> return instance article */
+    public List<Article> array = new ArrayList<>();
 
     public void loop() {
         Scanner scanner = new Scanner(System.in);
